@@ -234,6 +234,7 @@ adnxtr.com
 adnxus.com
 adobedtm.com
 adobetag.com
+adocean.pl
 adoftheyear.com
 adometry.com
 adomify.com
@@ -291,6 +292,7 @@ adscience.nl
 adsclean.com
 adsegments.imgs.sapo.pt
 adsensecustomsearchads.com
+adserv.com
 adserver.pandora.com
 adsfac.eu
 adshole.click
@@ -313,6 +315,7 @@ adsurity.com
 adsurity.de
 adsurity.fr
 adsurity.nl
+adswithsalt.com
 adswizz.com
 adswizz.net
 adsymptotic.com
@@ -460,6 +463,7 @@ analytics.faw.sky.com
 analytics.gandi.net
 analytics.newsinc.com
 analytics.nznweb.com.br
+analytics.plex.tv
 analytics.query.yahoo.com
 analytics.sapo.pt
 analytics.schoolwires.com
@@ -1047,6 +1051,7 @@ corp.aol.com
 corporate-ir.net
 coveritlive.com
 cp1.news.com.au
+cpex.cz
 cpm20.com
 cpmstars.com
 cq.io
@@ -1158,6 +1163,7 @@ dart.l.doubleclick.net
 dartsearch.net
 data-eroadvertising.com
 data.coremetrics.com
+databreakers.com
 databureau.com
 databureau.net
 databuro.com
@@ -1436,7 +1442,11 @@ etahub.com
 eue21east.com
 eue27west.com
 eum-appdynamics.com
+euroads.dk
+euroads.es
 euroads.fi
+euroads.no
+euroads.se
 evelinecourt.com
 evelinecourt.net
 eventcapture03.com
@@ -1536,6 +1546,7 @@ fraudmetrix.cn
 fredhopperservices.com
 freegreatapps.com
 freeskreen.com
+freestar.io
 freewall.com
 fresh8.co
 freshmedia.click
@@ -1604,6 +1615,8 @@ globalmonetization.com
 globaloffers.link
 globalsitecheck.com
 gloomwrite.com
+gmarketing.com
+gmarketing.me
 go-mpulse.net
 go2cloud.org
 goadservices.com
@@ -1773,6 +1786,7 @@ idgknowledgehub.com
 idgpublishing.com
 idio.co
 idqqimg.com
+idvert.cz
 iframes.us
 igodigital.com
 igsonar.com
@@ -10960,6 +10974,7 @@ monetate.net
 monetization.global
 monika.link
 monitor.uu.qq.com
+monkeytracker.cz
 mookie1.com
 moonmedia.info
 mopub.cloud
@@ -11060,6 +11075,7 @@ myxheat.com
 myyage.com
 n-core-pipe.com
 n121adserv.com
+n158adserv.com
 namesurf.net
 nanigans.com
 nano-visor.biz
@@ -11359,6 +11375,7 @@ postrelease.com
 postroller.com
 postup.com
 pow7.com
+powertds.trade
 powertheads.com
 powertheinternet.com
 pp.ru
@@ -11383,6 +11400,7 @@ productserve.com
 profile-matching.com
 profilmatch.com
 profilmatching.com
+proformics.com
 projectwonderful.com
 propllrcurlmb.com
 prscripts.com
@@ -11414,6 +11432,7 @@ pump.to
 purch.com
 purplenile.com
 pusherapp.com
+pushwoosh.com
 pussl9.com
 pussycash.com
 pvtraffic.com
@@ -11653,6 +11672,7 @@ sail-horizon.com
 sailthru.com
 salecycle.com
 salesforce.com
+salesmanago.pl
 santaidinuan.com
 sanya1.com
 sarky.org
@@ -11938,6 +11958,7 @@ spoteffects.net
 spotxchange.com
 springboardplatform.com
 springserve.com
+sprinklecontent.com
 sprinkletxt.com
 sptslmtrafms.com
 spylog.com
@@ -12124,6 +12145,7 @@ touchcommerce.london
 touchstoneresearch.com
 tqlkg.com
 tqn.com
+traaack.com
 track-flow.com
 track-mv-01.com
 track-mv-02.com
@@ -12131,10 +12153,12 @@ track-mv.com
 track.cpa.iqoption.com
 track.ft.com
 track.mypcbackup.com
+track.us.org
 trackad.cz
 trackalyzer.com
 trackedgr8.com
 trackedlink.net
+tracker-api.my.com
 trackertec.nznweb.com.br
 tracking.lenzmx.com
 tracking.opencandy.com.s3.amazonaws.com
@@ -12263,6 +12287,7 @@ updatemyprofile.net
 updpct.info
 upsales.com
 upsales.org
+upscore.com
 upsellit.com
 upsteed.com
 upstory.it
@@ -12282,6 +12307,7 @@ vacwrite.com
 valaffiliates.com
 valdelabs.com
 vcmedia.vn
+vcommission.com
 vdna-assets.com
 veeseo.com
 veille-referencement.com
@@ -12320,6 +12346,7 @@ vidlux.com
 vidmark.com
 vidyard.com
 viglink.com
+vilynx.com
 vindicosuite.com
 visistat.com
 visitortracklog.com
@@ -12342,6 +12369,7 @@ vppgamingnetwork.com
 vserv.mobi
 vservdigital.com
 vservmobi.com
+vvbox.cz
 vwdservices.com
 w55c.net
 walkme.com
