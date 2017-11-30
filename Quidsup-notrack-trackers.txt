@@ -941,6 +941,7 @@ clktag.com
 clkuno.com
 cloud-9751.com
 cloud-et-bigdata.com
+cloud.ca.com
 clusterconsulting.com.cn
 clusteredcloud.com
 clusteredcloud.net
@@ -1110,6 +1111,7 @@ criteo.info
 criteo.net
 criteo.org
 criteo.us
+crobo.com
 croredbomsmt.com
 crosspixel.net
 crowdignite.com
@@ -1963,6 +1965,7 @@ legolas-media.com
 leiki.com
 lelabdecisionnel.com
 levexis.com
+lgsmartad.com
 liadm.com
 lian13.com
 librato.com
@@ -2008,6 +2011,7 @@ log.spotify.com
 loggly.com
 loggly.net
 loggly.org
+logmatic.io
 lognormal.net
 logs.dashlane.com
 logs.roku.com
@@ -11404,6 +11408,7 @@ proformics.com
 projectwonderful.com
 propllrcurlmb.com
 prscripts.com
+ps7894.com
 psma01.com
 psma02.com
 psma03.com
@@ -12160,8 +12165,10 @@ trackedgr8.com
 trackedlink.net
 tracker-api.my.com
 trackertec.nznweb.com.br
+tracking.cmjump.com.au
 tracking.lenzmx.com
 tracking.opencandy.com.s3.amazonaws.com
+tracking.volo-mobile.com
 tracking.xsellapp.com
 trackjs.com
 trackwindow.com
@@ -12366,6 +12373,7 @@ voucherwindow.com
 voxmedia.com
 voycme.com
 vppgamingnetwork.com
+vrtztrk.com
 vserv.mobi
 vservdigital.com
 vservmobi.com
