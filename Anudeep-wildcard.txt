@@ -53,6 +53,7 @@ chartbeat.com
 chartboost.com
 ckk-45.net
 clickiocdn.com
+clicktale.net
 clickwinks.com
 clinkadtracking.com
 clksite.com
@@ -66,6 +67,7 @@ corrosif.science
 countreg.com
 crashlytics.com
 daylogs.com
+decibelinsight.net
 digg.com
 directadtrack.com
 doubleclick.net
@@ -79,6 +81,7 @@ everesttech.net
 exosrv.com
 firebaseio.com
 flurry.com
+fullstory.com
 fwmrm.net
 fyber.com
 geenapptrack.com
@@ -90,6 +93,7 @@ gpsonextra.net
 haokan.mobi
 hdnux.com
 hearstnp.com
+hotjar.com
 hoverr.media
 hs-scripts.com
 hscollectedforms.net
@@ -99,6 +103,7 @@ hubspot.com
 impressionmonster.com
 inmobi.com
 innovid.com
+inspectlet.com
 intercom.io
 intercomassets.com
 invocacdn.com
@@ -116,6 +121,7 @@ letreach.com
 lever.co
 likebtn.com
 localytics.com
+logrocket.com
 lucky-patcher.netbew.com
 marfeel.com
 mediaoffering.com
@@ -129,6 +135,7 @@ mobogenie.com
 moengage.com
 mookie1.com
 mopub.com
+mouseflow.com
 mpression.net
 new-free-offer.in
 nikopik.com
@@ -155,10 +162,12 @@ pushcrew.com
 pushsissmc.com
 qlitics.com
 qualtrics.com
+quantummetric.com
 rayjump.com
 rxthdr.com
 salemove.com
 scientificrevenue.com
+sessioncam.com
 seventynine.mobi
 sftapi.com
 sharethis.com
@@ -195,6 +204,7 @@ ucb.global
 umengcloud.com
 unbounce.com
 under9.co
+userreplay.net
 uservoice.com
 ushareit.com
 vemba.io
@@ -209,23 +219,10 @@ wct.click
 wishpond.com
 wistia.net
 wzrkt.com
+xg4ken.com
 xpanama.net
+yandex.ru
 yieldmo.com
 zadserver.com
 zedo.com
 zenmxapps.com
-xg4ken.com
-adups.com
-clicktale.net
-fullstory.com
-hotjar.com
-userreplay.net
-sessioncam.com
-smartlook.com
-yandex.ru
-inspectlet.com
-mouseflow.com
-decibelinsight.net
-quantummetric.com
-logrocket.com
-salemove.com
